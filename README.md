@@ -1,1 +1,1 @@
-# projects
+# sample maven projects
